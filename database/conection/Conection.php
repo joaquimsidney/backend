@@ -4,7 +4,7 @@ namespace Database\Conection;
 use PDO;
 
 define('HOST', 'localhost');
-define('DATABASENAME', 'testenewm');
+define('DATABASENAME', 'teste');
 define('USER', 'root');
 define('PASSWORD', 'root');
 
